@@ -1,1 +1,2 @@
-var arra = 'abroba'
+var arra = 'a';
+console.log(arra)
